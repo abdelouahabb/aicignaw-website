@@ -1,0 +1,9 @@
+default
+Dockerfile
+README.md
+*.pyc
+*.pyo
+*.pyd
+*.sh
+__pycache__
+.pytest_cache
