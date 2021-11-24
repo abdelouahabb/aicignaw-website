@@ -1,3 +1,0 @@
-tornado
-passlib
-user_agents
