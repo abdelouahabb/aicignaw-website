@@ -1,6 +1,0 @@
-{
-  "options":{
-  "allow-unauthenticated": false,
-  "port": 8000
-  }
-}
